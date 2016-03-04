@@ -1,0 +1,19 @@
+div.box {
+    width: 350px;
+    height: 175px;
+    border: 30px solid rgb(0, 0, 255);
+    background-color: rgb(153, 204, 255);
+    margin: 25px;
+    position: absolute;
+}
+
+
+p{
+padding-left:35px;
+padding-right: 35px;
+padding-top:25px;
+font-size:18px;
+position:relative;
+}
+
+
